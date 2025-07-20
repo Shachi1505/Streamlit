@@ -1,3 +1,7 @@
+# Demo Video
+
+https://github.com/user-attachments/assets/d1fd78e0-e0f0-4699-838c-839cdea7e47c
+
 # HR Letters - DocuWave 📄
 
 A powerful Streamlit-based web application for generating personalized HR letters and agreements from Excel data using Word templates.
